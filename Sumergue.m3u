@@ -1,0 +1,395 @@
+
+#EXTM3U
+
+#EXTINF:-1 group-title="NOTICIAS", FOROTV
+
+https://adinsertprimeforotv.akamaized.net/hls/live/2004483-b/forotvdai/PROFILE05.m3u8
+
+#EXTINF:-1 group-title="CINE", A3CINE
+
+https://live.atresmediainternacional.com:443/ATRESMEDIA/a3cine-480.m3u8
+
+#EXTINF:-1 group-title="PROGRAMA", MULTIMEDIOS
+
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 group-title="MUSICA", PORTALFOXMIXTV
+
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
+
+#EXTINF:-1 group-title="PROGRAMA", TELEMAX
+
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+
+#EXTINF:-1 group-title="PROGRAMA", MULTIMEDIOSMONTERREY
+
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+
+#EXTINF:-1 group-title="MUSICA", M2oTV
+
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 group-title="PROGRAMA", CH10ESPAÑOL
+
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", REDBULLTV
+
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 group-title="PROGRAMA", CANAL ESTRELLAS
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17234
+
+#EXTINF:-1 group-title="CINE", MOVISTAR SERIES XTRA
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17240
+
+#EXTINF:-1  group-title="CINE", TCM
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17248
+
+#EXTINF:-1 group-title="DEPORTE", FOX SPORT 2 LATINO
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17277 
+
+#EXTINF:-1 group-title="DEPORTE", MOVISTAR+ TOROS HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17282
+
+#EXTINF:-1 group-title="DEPORTE", BEIN LALIGA HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17283 
+
+#EXTINF:-1 group-title="DEPORTE", BEIN LALIGA SD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17284 
+
+#EXTINF:-1 group-title="DEPORTE", BEIN LA LIGA 1 HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17285 
+
+#EXTINF:-1 group-title="DEPORTE", BEIN LA LIGA 123 HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17286 
+
+#EXTINF:-1  group-title="DEPORTE", BEINSPORTS HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17289 
+
+#EXTINF:-1 group-title="DEPORTE", BEIN SPORT SD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17290 
+
+#EXTINF:-1 group-title="PROGRAMA", DIVINITY
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17311 
+
+#EXTINF:-1 group-title="PROGRAMA", FDF
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17312 
+
+#EXTINF:-1 group-title="CINE", A&E
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17313 
+
+#EXTINF:-1 group-title="PROGRAMA", CLAN TVE
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17314 
+
+#EXTINF:-1 group-title="SERIES", A3 SERIE HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17316 
+
+#EXTINF:-1 group-title="PROGRAMA", NOVA
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17317 
+
+#EXTINF:-1 group-title="PROGRAMA",  TELENOVELAS
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17318 
+
+#EXTINF:-1 group-title="PROGRAMA", CARACOL TV
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17319 
+
+#EXTINF:-1 group-title="PROGRAMA", VIAJAR HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17320 
+
+#EXTINF:-1 group-title="PROGRAMA", VIAJAR
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17321 
+
+#EXTINF:-1 group-title="PROGRAMA", MEGA
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17327 
+
+#EXTINF:-1 group-title="PROGRAMA", ODISEA
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17331 
+
+#EXTINF:-1  group-title="CULTURA", HISTORIA
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17332 
+
+#EXTINF:-1 group-title="CULTURA", CAZA Y PESCA
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17334 
+
+#EXTINF:-1 group-title="CULTURA", CAZA & PESCA HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17335 
+
+#EXTINF:-1 group-title="COCINA", CANAL COCINA
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17336 
+
+#EXTINF:-1 group-title="PROGRAMA", CANAL PANDA
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17337 
+
+#EXTINF:-1 group-title="NIÑOS", BABY TV
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17338 
+
+#EXTINF:-1 group-title="NIÑOS", BOING
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17339 
+
+#EXTINF:-1 group-title="PROGRAMA", CALLE 13 HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17340 
+
+#EXTINF:-1 group-title="PROGRAMA", CALLE 13
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17341 
+
+#EXTINF:-1 group-title="CINE", HOLLYWOOD HD
+ http://188.166.1.125:9981/stream/channelid/1727385596
+
+#EXTINF:-1  group-title="CINE", SYFY HD
+ http://188.166.1.125:9981/stream/channelid/352436933
+
+#EXTINF:-1 group-title="CINE", FOX HD
+ http://188.166.1.125:9981/stream/channelid/1969283746
+
+#EXTINF:-1 group-title="CINE", FOX
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17344 
+
+#EXTINF:-1 group-title="CINE", FOX LIFE
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17345 
+
+#EXTINF:-1 group-title="CINE", HOLLYWOOD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17346 
+
+#EXTINF:-1, "CINE" AXN HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17347 
+
+#EXTINF:-1 group-title="CINE", AXN
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17348 
+
+#EXTINF:-1 group-title="CINE", AXN WHITE HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17349 
+
+#EXTINF:-1 group-title="CINE", AXN WHITE
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17350 
+
+#EXTINF:-1 group-title="DEPORTE", MOVISTAR VAMOS HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17351 
+
+#EXTINF:-1 group-title="DEPORTE", MOVISTAR VAMOS
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17352 
+
+#EXTINF:-1 group-title="PROGRAMA", NONSTOPEOPLE
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17353 
+
+#EXTINF:-1 group-title="COMEDIA", COMEDY CENTRAL HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17354 
+
+#EXTINF:-1 group-title="COMEDIA", COMEDY CENTRAL
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17355 
+
+#EXTINF:-1 group-title="PROGRAMA", COSMO
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17356 
+
+#EXTINF:-1 group-title="PROGRAMA", COSMO HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17357 
+
+#EXTINF:-1 group-title="CULTURA", DISCOVERY CHANNEL
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17358 
+
+#EXTINF:-1 group-title="CULTURA", DISCOVERY CRIME INVESTIGATION
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17359 
+
+#EXTINF:-1 group-title="NIÑOS", DISNEY CHANNEL HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17360 
+
+#EXTINF:-1 group-title="NIÑOS", DISNEY CHANNEL
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17361 
+
+#EXTINF:-1 group-title="NIÑOS", DISNEY JR
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17362 
+
+#EXTINF:-1 group-title="NIÑOS", NICKELODEON HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17363 
+
+#EXTINF:-1 group-title="NIÑOS", NICKELODEON JR
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17364 
+ 
+#EXTINF:-1 group-title="PROGRAMA", #0 HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17367 
+
+#EXTINF:-1 group-title="PROGRAMA", BLAZE
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17372 
+
+#EXTINF:-1 group-title="PROGRAMA", BEMAD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17373 
+
+#EXTINF:-1 group-title="PROGRAMA", BOM
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17374 
+
+#EXTINF:-1 group-title="PROGRAMA", CANAL ANDALUCIA
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17375 
+
+#EXTINF:-1 group-title="PROGRAMA", CANAL ORBI 21
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17376 
+
+#EXTINF:-1 group-title="PROGRAMA", CLAN TV HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17379 
+
+#EXTINF:-1 group-title="CULTURA", CRIMEN+ INVESTIGACION
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17381 
+
+#EXTINF:-1 group-title="PROGRAMA", DKISS
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17383 
+
+#EXTINF:-1 group-title="PROGRAMA", DMAX
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17384 
+
+#EXTINF:-1 group-title="PROGRAMA", ETB
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17385 
+
+#EXTINF:-1 group-title="DEPORTE", GOL TV
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17386 
+ 
+#EXTINF:-1 group-title="MUSICA", RITMOSON
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17390 
+
+#EXTINF:-1, "PROGRAMA" SOMOS
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17394 
+
+#EXTINF:-1 group-title="PROGRAMA", TDP HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17395 
+
+#EXTINF:-1 group-title="PROGRAMA", TELE NOVELAS
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17397 
+
+#EXTINF:-1 group-title="MUSICA", TELEHIT
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17398 
+
+#EXTINF:-1 group-title="PROGRAMA", TEN
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17400 
+
+#EXTINF:-1 group-title="PROGRAMA", TRECE
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17401 
+
+#EXTINF:-1 group-title="CINE", DE PELICULA
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/17404 
+
+#EXTINF:-1 group-title="MUSICA", TOP LATINO
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/20559 
+
+#EXTINF:-1 group-title="CINE", AMC
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/20561 
+
+#EXTINF:-1 group-title="CINE", TAQUILLA 1
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/21620 
+
+#EXTINF:-1 group-title="CINE", TAQUILLA 2
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/21621 
+
+#EXTINF:-1 group-title="CINE", TAQUILLA 3
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/21622 
+
+#EXTINF:-1 group-title="CINE", TAQUILLA 4
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/21623 
+
+#EXTINF:-1 group-title="CINE", TAQUILLA 5
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/21624 
+
+#EXTINF:-1 group-title="CINE", TAQUILLA 6
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/21625 
+
+#EXTINF:-1 group-title="CINE", TAQUILLA 7
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/21626 
+
+#EXTINF:-1 group-title="PROGRAMA", TAQUILLA 10
+ http://188.166.1.125:9981/stream/channelid/1306923028
+
+#EXTINF:-1 group-title="CINE", FHD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/22808 
+
+#EXTINF:-1 group-title="PROGRAMA", HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/22809 
+
+#EXTINF:-1 group-title="PROGRAMA", 1 HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/22810 
+
+#EXTINF:-1 group-title="PROGRAMA", 1 FHD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/22811 
+
+#EXTINF:-1 group-title="PROGRAMA", 2 HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/22812 
+
+#EXTINF:-1 group-title="PROGRAMA", 2 FHD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/22813 
+
+#EXTINF:-1 group-title="PROGRAMA", 3 HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/22814 
+
+#EXTINF:-1 group-title="PROGRAMA", M. Dazn 1 FHD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/22815 
+
+#EXTINF:-1 group-title="PROGRAMA", M. Dazn 1 HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/22816 
+
+#EXTINF:-1 group-title="PROGRAMA", M. Dazn 2 FHD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/22817 
+
+#EXTINF:-1 group-title="PROGRAMA", M. Dazn 2 HD
+ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/22818 
+
+#EXTINF:-1 group-title="DEPORTE", Bein Sport HD
+ http://188.166.1.125:9981/stream/channelid/324358267
+
+#EXTINF:-1 group-title="DEPORTE", beIN Laliga 1 HD Backup
+ http://188.166.1.125:9981/stream/channelid/1903817244
+
+#EXTINF:-1 group-title="DEPORTE", Canal DEPORTES HD
+ http://188.166.1.125:9981/stream/channelid/1305534839 
+
+#EXTINF:-1 group-title="CINE", Canal DCINE HD
+ http://188.166.1.125:9981/stream/channelid/876982855 
+
+#EXTINF:-1 group-title="PROGRAMA", CANAL DECASA
+ http://188.166.1.125:9981/stream/channelid/2082889748 
+
+#EXTINF:-1 group-title="CINE", Canal SERIES HD
+ http://188.166.1.125:9981/stream/channelid/1165886727 
+
+#EXTINF:-1 group-title="NIÑOS", DISNEY JUNIOR
+ http://188.166.1.125:9981/stream/channelid/1362363236 
+
+#EXTINF:-1 group-title="NIÑOS", DISNEY XD
+ http://188.166.1.125:9981/stream/channelid/445808059 
+
+#EXTINF:-1 group-title="PROGRAMA", Energy
+ http://188.166.1.125:9981/stream/channelid/1063154050
+
+#EXTINF:-1 group-title="COMEDIA", M COMEDIA HD
+ http://188.166.1.125:9981/stream/channelid/1381045638
+
+#EXTINF:-1 group-title="PROGRAMA", Mega TV
+ http://188.166.1.125:9981/stream/channelid/1372252979
+
+#EXTINF:-1 group-title="CINE", Movistar Accion HD
+ http://188.166.1.125:9981/stream/channelid/161059351 
+
+#EXTINF:-1 group-title="CINE", MoviStar Cine
+ http://188.166.1.125:9981/stream/channelid/1921160823 
+
+#EXTINF:-1 group-title="CINE",MOVISTAR ESTRENOS HD
+ http://188.166.1.125:9981/stream/channelid/1408091073 
+
+#EXTINF:-1 group-title="DEPORTE", MOVISTAR FUTBOL 
+ http://188.166.1.125:9981/stream/channelid/1061285805 
+
+#EXTINF:-1 group-title="DEPORTE", MOVISTAR MOTOGP
+ http://188.166.1.125:9981/stream/channelid/433133234 
+
+#EXTINF:-1 group-title="MUSICA", MTV ESPAÑA
+ http://188.166.1.125:9981/stream/channelid/116692082 
+
+#EXTINF:-1 group-title="CULTURA", NAT GEO WILD HD
+ http://188.166.1.125:9981/stream/channelid/777513168
+
+#EXTINF:-1 group-title="CINE", Paramount
+ http://188.166.1.125:9981/stream/channelid/87744848 
+
+#EXTINF:-1 group-title="DEPORTE", Real Madrid Channel
+ http://188.166.1.125:9981/stream/channelid/1061635554
+
+#EXTINF:-1 group-title="PROGRAMA", TELECINCO HD
+ http://188.166.1.125:9981/stream/channelid/9817941 
+
+#EXTINF:-1group-title="CINE", TNT
+ http://188.166.1.125:9981/stream/channelid/597294709
